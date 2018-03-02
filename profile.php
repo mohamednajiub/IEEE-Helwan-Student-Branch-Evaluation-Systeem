@@ -5,15 +5,18 @@
     <div class="jumbotron jumbotron-fluid">
         <div class="container">
             <div class="row">
+                <!-- Member Details -->
                 <div class="col-sm-2">
                     <img class="img-thumbnail img-fluid" src="http://via.placeholder.com/200x200" alt="Volunteer Name" title="Volunteer Name">
                 </div>
                 <div class="card-body col-sm-10">
                     <h5 class="card-title">Volunteer Name</h5>
                     <p class="card-text">Points <span class="badge badge-light">4</span></p>
+                    <!-- for Director & EX.COM Only -->
                     <a href="newTask.php" class="btn btn-primary">Send Task</a>
                 </div>
             </div>
+            <!-- All Tasks -->
             <div id="accordion">
                 <div class="card">
                     <div class="card-header" id="headingOne">

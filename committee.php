@@ -5,6 +5,7 @@
     <div class="jumbotron jumbotron-fluid">
         <div class="container">
             <h1 class="display-4">Committee Name</h1> <small>Committee Director</small>
+            <!-- will appear only in EX-com Dashboard -->
             <div class="card mb-3">
                 <div class="row">
                     <div class="col-sm-2">
@@ -17,6 +18,7 @@
                     </div>
                 </div>
             </div>
+            <!-- All members in commitee -->
             <div id="accordion">
                 <div class="card">
                     <div class="card-header" id="headingOne">

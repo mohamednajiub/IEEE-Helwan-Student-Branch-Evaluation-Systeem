@@ -16,11 +16,9 @@ $( document ).ready(function() {
 
   // for committee accordition
   $('.collapse').collapse();
-
-  // Preview 
   
 });
-
+// Preview 
 function preview() {
   'use strict';
   if(this.files && this.files[0]){
@@ -34,4 +32,6 @@ function preview() {
     }
     reader.readAsDataURL(this.files[0]);
   }
-}
+};
+
+// Task Deadline Count down

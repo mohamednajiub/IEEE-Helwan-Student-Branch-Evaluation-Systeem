@@ -22,8 +22,12 @@
                     <div class="row">
                         <img src="http://via.placeholder.com/100x100" class="rounded-circle col-4" alt="Volunteer Name" width="100px" height="100px">
                         <figcaption class="col-8 mt-3">
-                            <span class="h4">Volunteer Name</span>
-                            <span class="h5">Volunteer Committe</span>
+                            <div class="row">
+                                <span class="h4">Volunteer Name</span>
+                            </div>
+                            <div class="row">
+                                <span class="h5">Volunteer Committe</span>
+                            </div>
                         </figcaption>
                     </div>
                 </figure>
@@ -44,9 +48,13 @@
             <li class="navbar-side-item">
                 <a href="mini_profile.php" class="side-link">Mini Profile</a>
             </li>
-            <!-- for Members & EX-com -->
+            <!-- for Members & Directors -->
             <li class="navbar-side-item">
                 <a href="deliverTask.php" class="side-link">Deliver Task</a>
+            </li>
+            <!-- for All  -->
+            <li class="navbar-side-item">
+                <a href="editProfile.php" class="side-link">Edit Profile</a>
             </li>
         </ul>
     </nav>

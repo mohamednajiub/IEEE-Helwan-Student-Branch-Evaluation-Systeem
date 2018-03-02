@@ -4,7 +4,7 @@
 ?>
 <div class="jumbotron jumbotron-fluid">
     <div class="container">
-        <p class="lead">Send Task</p>
+        <p class="lead">Deliver Task</p>
         <form role="form" action="#">
             <!-- To Label -->
             <div class="col-md-12">
